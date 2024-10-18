@@ -1,4 +1,4 @@
-package src.main.java.com.collin.seclub.minecraftmod;
+package com.collin.seclub.minecraftmod;
 
 import net.fabricmc.api.ModInitializer;
 
